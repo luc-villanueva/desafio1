@@ -65,13 +65,13 @@ body {
     padding: 40px;
   }
   
-  .planta {
+  .pelicula {
     display: flex;
     align-items: center;
     margin-bottom: 40px;
   }
   
-  .planta img {
+  .pelicula img {
     width: 250px;
     margin-right: 20px;
   }

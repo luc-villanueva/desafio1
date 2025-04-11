@@ -65,13 +65,13 @@ body {
     padding: 40px;
   }
   
-  .planta {
+  .juego {
     display: flex;
     align-items: center;
     margin-bottom: 40px;
   }
   
-  .planta img {
+  .juego img {
     width: 250px;
     margin-right: 20px;
   }
